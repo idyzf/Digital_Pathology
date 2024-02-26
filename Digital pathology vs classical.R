@@ -1,6 +1,7 @@
 library(openxlsx)
 library(dplyr)
 
+
 rm(list = ls())
 
 patologista <- read.xlsx("/Users/idelizanesco/Library/CloudStorage/GoogleDrive-ideli.zanesco@gmail.com/Meu Drive/Colab Notebooks/Mestrado/Projeto/Patologia/CK7_resultados_IHQ_08-12.xlsx")
